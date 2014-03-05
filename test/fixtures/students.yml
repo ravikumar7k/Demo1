@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  sno: 1
+  sname: MyString
+  sloc: MyText
+
+two:
+  sno: 1
+  sname: MyString
+  sloc: MyText
